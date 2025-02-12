@@ -90,7 +90,7 @@
                           className: "text-[#D4D4D4] text-base font-bold",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "https://docs.destra-ai.net/",
                               target: "_blank",
                               children: "Docs"
                           })
@@ -99,7 +99,7 @@
                           className: "text-[#D4D4D4] text-base font-bold",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destra-ai.net/",
                               target: "_blank",
                               children: "App"
                           })
@@ -165,12 +165,12 @@
                           className: "flex flex-col gap-y-6 text-2xl font-bold",
                           children: [(0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "https://docs.destra-ai.net/",
                               className: "text-red-500",
                               children: "DOCS"
                           }), (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destra-ai.net/",
                               target: "_blank",
                               children: "App"
                           })]
@@ -322,7 +322,7 @@
                           },
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "https://docs.destra-ai.net/",
                               target: "_blank",
                               className: "text-red-500",
                               children: "Docs"
@@ -344,7 +344,7 @@
                           },
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destra-ai.net/",
                               target: "_blank",
                               children: "App"
                           })
@@ -486,12 +486,12 @@
                           className: "flex flex-col gap-y-6 text-2xl font-bold",
                           children: [(0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "https://docs.destra-ai.net/",
                               className: "text-red-500",
                               children: "DOCS"
                           }), (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destra-ai.net/",
                               children: "App"
                           })]
                       }), (0,

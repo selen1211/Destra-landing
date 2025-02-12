@@ -6660,7 +6660,7 @@
                         },
                         children: (0,
                         i.jsx)(D.default, {
-                            href: "https://stake-destranetwork-project.vercel.app/",
+                            href: "https://staking.destra-ai.net/",
                             target: "_blank",
                             children: (0,
                             i.jsx)(eo, {
@@ -6787,7 +6787,7 @@
                       className: "flex gap-1",
                       children: (0,
                       i.jsx)(D.default, {
-                          href: "https://destranetwork.io/",
+                          href: "https://app.destra-ai.net/",
                           target: "_blank",
                           className: "justify-center",
                           children: (0,
@@ -11229,10 +11229,10 @@
                       className: "flex flex-wrap justify-center items-center gap-x-6",
                       children: [{
                           name: "docs",
-                          link: "#docs"
+                          link: "https://docs.destra-ai.net/"
                       }, {
                           name: "app",
-                          link: "#app"
+                          link: "https://app.destra-ai.net/"
                       }].map(e => (0,
                       i.jsx)(o.default, {
                           href: e.link,
