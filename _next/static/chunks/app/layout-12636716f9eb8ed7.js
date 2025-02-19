@@ -59,7 +59,7 @@
           r.useState)(!1)
             , l = async () => {
               try {
-                  await navigator.clipboard.writeText("0x000000000000000000000000000000"),
+                  await navigator.clipboard.writeText("0x5Cd77863Fb4895423D0B031b7B0537CDA1a4F1CD"),
                   n(!0),
                   setTimeout( () => n(!1), 2e3)
               } catch (e) {
@@ -263,7 +263,7 @@
           r.useState)(!1)
             , y = async () => {
               try {
-                  await navigator.clipboard.writeText("0x000000000000000000000000000000"),
+                  await navigator.clipboard.writeText("0x5Cd77863Fb4895423D0B031b7B0537CDA1a4F1CD"),
                   w(!0),
                   setTimeout( () => w(!1), 2e3)
               } catch (e) {
